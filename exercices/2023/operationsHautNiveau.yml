@@ -13,3 +13,12 @@
     - compte: "442100"
       montant: 46
       sens: Crédit
+- type: Envoi facture client
+  numéroFacture: ""
+  date: 2023-06-07T15:45:31.442Z
+  compteClient: ""
+  identifiantOpération: e8u13g37sl
+  lignes:
+    - compteProduit: ""
+      montantHT: 0
+      tauxTVA: 0
