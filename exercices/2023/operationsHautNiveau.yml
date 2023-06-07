@@ -1,1 +1,15 @@
-
+- identifiantOpération: pe7pmclggpg
+  type: Fiche de paie
+  date: 2023-06-07T00:00:00.000Z
+  débutPériode: 2023-06-01T00:00:00.000Z
+  finPériode: 2023-06-23T00:00:00.000Z
+  opérations:
+    - compte: "641000"
+      montant: 787898
+      sens: Crédit
+    - compte: "645000"
+      montant: 4567
+      sens: Crédit
+    - compte: "442100"
+      montant: 46
+      sens: Crédit
